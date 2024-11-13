@@ -1,0 +1,30 @@
+.App {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    font-family: monospace;
+    font-size: 14px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+  }
+  
+  label {
+    font-size: 14px;
+    margin-right: 10px;
+  }
+  
